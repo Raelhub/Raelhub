@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rael (laelmano24)</h1>
-<h3 align="center">This is a repository to store Rael Hub modules and others. I'm not like some developers who use modules in their projects.</h3>
+<h3 align="center">This is a repository to store modules from Rael Hub and others. I'm not like some developers who don't use modules in their projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raelhub&label=Profile%20views&color=0e75b6&style=flat" alt="Rael Hub" /> </p>
 
