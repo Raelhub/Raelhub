@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rael</h1>
-<h3 align="center">I'm just one person among thousands of programmers trying to be good at what I do.</h3>
+<h3 align="center">This repository is to store Rael Hub modules, I don't like some developers who don't update modulation in their projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laelmano24&label=Profile%20views&color=0e75b6&style=flat" alt="laelmano24" /> </p>
 
